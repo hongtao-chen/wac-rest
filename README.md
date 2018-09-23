@@ -3,7 +3,7 @@
 ## Get Started
 Refer to [redfish-device repo](https://github.com/hongtao-chen/redfish-device) for an example where to use it.
 
-This [Windows Admin Center](https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/overview) plugin can forward the HTTP calls to the specified backend service and forward back the output. It won't cover all the HTTP features like streaming, it's just a tool required for the [redfish-device](https://github.com/hongtao-chen/redfish-device)) project, so we can call the redfish REST service endpoint.
+This [Windows Admin Center](https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/overview) plugin can forward the HTTP calls to the specified backend service and forward back the output. It won't cover all the HTTP features like streaming, it's just a tool required for the [redfish-device](https://github.com/hongtao-chen/redfish-device) project, so we can call the redfish REST service endpoint.
 
 ## Plugin Version
 This Windows Admin Center plugin is based on the beta plugin interface which marked as obsolete in the recent [globally available release](https://cloudblogs.microsoft.com/windowsserver/2018/09/20/windows-admin-center-1809-and-sdk-now-generally-available/). You are welcome to fork and upgrade it to a latest feature interface.
